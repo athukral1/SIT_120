@@ -1,0 +1,8 @@
+.image {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+    border: 5px solid #333;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
